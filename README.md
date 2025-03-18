@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm RIO! 👋
 
-<!--
-**Rioryoba/Rioryoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate developer who loves coding, learning new technologies, and contributing to open-source projects. I have experience in various programming languages and frameworks, and I'm always eager to expand my skills and take on new challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages**: JavaScript, Python, Java
+- **Frameworks**: React, Node.js, Django, Spring
+- **Tools**: Git, Docker, Kubernetes
+- **Databases**: MySQL, PostgreSQL, MongoDB
+
+
+
+## Get in Touch
+
+- **GitHub**: [github.com/rio20232024](https://github.com/Rioryoba)
+
+
+Feel free to reach out if you want to collaborate on a project or just say hi!
+
+Thanks for visiting my profile! 😊
