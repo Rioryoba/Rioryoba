@@ -6,8 +6,8 @@ I'm a passionate developer who loves coding, learning new technologies, and cont
 
 ## Skills
 
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Django, Spring
+- **Languages**: JavaScript, Python
+- **Frameworks**: React, Node.js, Django,NextJs
 - **Tools**: Git, Docker, Kubernetes
 - **Databases**: MySQL, PostgreSQL, MongoDB
 
